@@ -20,4 +20,4 @@ const subarraySumK = (arr, k) => {
   console.log(count);
 };
 
-subarraySumK(arr, k);
+subarraySumK(arr1, k);
